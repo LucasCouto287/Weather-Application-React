@@ -4,3 +4,4 @@ import "firebase/firestore";
 var firebaseConfig = {
   apiKey: "",
   authDomain: "",
+  databaseURL: "",
