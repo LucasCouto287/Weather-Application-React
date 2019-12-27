@@ -9,3 +9,9 @@ var firebaseConfig = {
   storageBucket: "",
   messagingSenderId: "",
   appId: ""
+  };
+
+// Initialize Firebase
+export default !firebase.apps.length
+  ? firebase.initializeApp(firebaseConfig)
+  : firebase.app();
