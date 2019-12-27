@@ -5,3 +5,4 @@ var firebaseConfig = {
   apiKey: "",
   authDomain: "",
   databaseURL: "",
+  projectId: "",
