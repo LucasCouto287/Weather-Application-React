@@ -7,3 +7,4 @@ var firebaseConfig = {
   databaseURL: "",
   projectId: "",
   storageBucket: "",
+  messagingSenderId: "",
