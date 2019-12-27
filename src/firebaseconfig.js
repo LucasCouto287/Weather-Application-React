@@ -6,3 +6,4 @@ var firebaseConfig = {
   authDomain: "",
   databaseURL: "",
   projectId: "",
+  storageBucket: "",
