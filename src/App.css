@@ -1,0 +1,22 @@
+.App {
+  background: #2E313C;
+  color: #fff;
+  padding: 20px 30px;
+  min-height: 100vh;
+  color: white;
+}
+
+.heading {
+  font-size: 42px;
+  font-weight: 900;
+  margin-bottom: 0;
+}
+
+.sub-heading {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.App-Content {
+ 
+}

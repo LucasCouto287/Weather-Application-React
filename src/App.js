@@ -6,3 +6,19 @@ import Link from "@material-ui/core/Link";
 import { MuiPickersUtilsProvider } from "@material-ui/pickers";
 import DateFnsUtils from "@date-io/date-fns";
 
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1 className="heading">
+          Hello.
+        </h1>
+        <p className="sub-heading">
+          This is a React application
+        </p>
+      </header>
+    </div>
+  );
+}
+
+export default App;
